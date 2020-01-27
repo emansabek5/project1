@@ -3,7 +3,7 @@
 .clearfix{clear:both;}
 .header .slider 
 {
-    background-image:url('image/slider.png');
+    background-image:url('image/slider.PNG');
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
